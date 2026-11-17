@@ -1,56 +1,39 @@
-<p align="center">
-  <img src="assets/moonlight.png" alt="银月映照深蓝湖面，远山隐于夜色" width="100%" />
-</p>
-
-<h1 align="center">明月几时有</h1>
-
-<p align="center"><sub>MINGYUE329</sub></p>
-
-<p align="center">前端界面 · 实用工具 · 开发协作</p>
+<a href="https://mingyuejiu.cn" title="访问明月几时有的个人小站">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/ink-cover-mobile.png" />
+    <img src="assets/ink-cover.png" width="100%" alt="明月几时有 · 前端与全栈。宣纸、墨竹、远山与梅枝，题句为辛弃疾的「青山吞吐古今月」。点击访问个人小站。" />
+  </picture>
+</a>
 
 <p align="center">
-  <a href="https://github.com/mingyue329?tab=repositories">浏览仓库</a>
-  &nbsp;·&nbsp;
-  <a href="#项目一览">项目一览</a>
+  <a href="https://mingyuejiu.cn">个人小站</a>
+  &nbsp; · &nbsp;
+  <a href="https://mingyuejiu.cn/blog">技术笔记</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/mingyue329?tab=repositories">全部仓库</a>
 </p>
 
 <br />
 
-## 关于
+<a href="https://github.com/mingyue329/manga-blog" title="查看 manga-blog 仓库">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/manga-blog-mobile.png" />
+    <img src="assets/manga-blog.png" width="100%" alt="漫画感博客 · React / TypeScript。漫画风静态博客，写作、搜索与深色模式。" />
+  </picture>
+</a>
 
-你好，我是明月。这里收录了我的博客模板、工具实验，以及开发协作中的实践整理。
+<a href="https://github.com/mingyue329/discord-translate" title="查看 discord-translate 仓库">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/discord-translate-mobile.png" />
+    <img src="assets/discord-translate.png" width="100%" alt="Discord 语音翻译 · Python / Ollama。让语音转写、流式翻译和悬浮字幕连起来。" />
+  </picture>
+</a>
 
-从页面交互到本地语音翻译，把想法逐步做成可以使用的东西。
+<a href="https://github.com/mingyue329/ht-project-skill" title="查看 ht-project-skill 仓库">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/ht-project-skill-mobile.png" />
+    <img src="assets/ht-project-skill.png" width="100%" alt="HT 项目技能 · HT / TypeScript。把项目识别、功能开发与脚本实践整理成技能。" />
+  </picture>
+</a>
 
-<br />
-
-## 项目一览
-
-### [manga-blog](https://github.com/mingyue329/manga-blog)
-
-漫画风格的静态博客模板，支持 Markdown 写作、全文搜索和深色模式。
-
-<sub>React · TypeScript · Vite · Tailwind CSS</sub>
-
----
-
-### [discord-translate](https://github.com/mingyue329/discord-translate)
-
-本地运行的 Discord 实时语音翻译助手，串联语音转写、流式翻译和悬浮字幕。
-
-<sub>Python · faster-whisper · Ollama · tkinter</sub>
-
----
-
-### [ht-project-skill](https://github.com/mingyue329/ht-project-skill)
-
-围绕 HT 项目整理的协作技能，覆盖模板识别、功能开发、低代码场景脚本与编码准则。
-
-<sub>HT · TypeScript · AI 辅助开发</sub>
-
-<br />
-
-## 探索与练习
-
-在 Fork 仓库中学习界面设计与交互实现，包括音乐播放器 [AriaLoom](https://github.com/mingyue329/AriaLoom)、博客主题 [Fuwari](https://github.com/mingyue329/fuwari) 和作品集模板 [Portfolio](https://github.com/mingyue329/Portfolio)。
-
+<!-- 题图复用 mingyuejiu-site 的山月入墨画面与字体风格，桌面和移动端分别排版。 -->
