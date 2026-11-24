@@ -1,39 +1,19 @@
-<a href="https://mingyuejiu.cn" title="访问明月几时有的个人小站">
+<a href="https://mingyuejiu.com">
   <picture>
     <source media="(max-width: 600px)" srcset="assets/ink-cover-mobile.png" />
-    <img src="assets/ink-cover.png" width="100%" alt="明月几时有 · 前端与全栈。宣纸、墨竹、远山与梅枝，题句为辛弃疾的「青山吞吐古今月」。点击访问个人小站。" />
+    <img src="assets/ink-cover.png" width="100%" alt="明月几时有。墨竹、远山和一枝梅，题的是辛弃疾的「青山吞吐古今月」。" />
   </picture>
 </a>
 
-<p align="center">
-  <a href="https://mingyuejiu.cn">个人小站</a>
-  &nbsp; · &nbsp;
-  <a href="https://mingyuejiu.cn/blog">技术笔记</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/mingyue329?tab=repositories">全部仓库</a>
-</p>
+我网名叫「明月几时有」，名字里有个「为」。读到辛弃疾写「万事有为应有尽」，碰巧跟我对上了，就把这首诗留在了[自己的小站](https://mingyuejiu.com)。
 
-<br />
+### 我在 GitHub 上放了些什么
 
-<a href="https://github.com/mingyue329/manga-blog" title="查看 manga-blog 仓库">
-  <picture>
-    <source media="(max-width: 600px)" srcset="assets/manga-blog-mobile.png" />
-    <img src="assets/manga-blog.png" width="100%" alt="漫画感博客 · React / TypeScript。漫画风静态博客，写作、搜索与深色模式。" />
-  </picture>
-</a>
+[漫画感博客](https://github.com/mingyue329/manga-blog)<br>
+个人站画成了山水，这个博客偏要用粗线条。文章用 Markdown 写，可以搜全文，也给 Steam 游戏档案留了位置。
 
-<a href="https://github.com/mingyue329/discord-translate" title="查看 discord-translate 仓库">
-  <picture>
-    <source media="(max-width: 600px)" srcset="assets/discord-translate-mobile.png" />
-    <img src="assets/discord-translate.png" width="100%" alt="Discord 语音翻译 · Python / Ollama。让语音转写、流式翻译和悬浮字幕连起来。" />
-  </picture>
-</a>
+[Discord 语音字幕](https://github.com/mingyue329/discord-translate)<br>
+指定频道里一个人的语音，在本机转成文字，再翻译。原文和译文都放在置顶的小窗里。
 
-<a href="https://github.com/mingyue329/ht-project-skill" title="查看 ht-project-skill 仓库">
-  <picture>
-    <source media="(max-width: 600px)" srcset="assets/ht-project-skill-mobile.png" />
-    <img src="assets/ht-project-skill.png" width="100%" alt="HT 项目技能 · HT / TypeScript。把项目识别、功能开发与脚本实践整理成技能。" />
-  </picture>
-</a>
-
-<!-- 题图复用 mingyuejiu-site 的山月入墨画面与字体风格，桌面和移动端分别排版。 -->
+[HT 项目里的几份工作笔记](https://github.com/mingyue329/ht-project-skill)<br>
+接手一个 HT 项目，先去哪里找入口？现成的场景脚本应该在哪一层改？我把这些整理成了可以直接用的技能。
