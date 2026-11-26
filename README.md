@@ -1,22 +1,46 @@
 <a href="https://mingyue329.github.io/">
   <picture>
-    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/river-night-mobile.png" />
-    <source media="(prefers-color-scheme: dark)" srcset="assets/river-night.png" />
-    <source media="(max-width: 600px)" srcset="assets/pine-pavilion-mobile.png" />
-    <img src="assets/pine-pavilion.png" width="100%" alt="明月几时有。青山吞吐古今月。点击进入个人网站。" />
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/almanac/moon-night-small.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/almanac/moon-night.svg">
+    <source media="(max-width: 600px)" srcset="assets/almanac/moon-paper-small.svg">
+    <img width="100%" src="assets/almanac/moon-paper.svg" alt="明月几时有｜青山吞吐古今月。远山落进湖面，月下有一线倒影。">
   </picture>
 </a>
 
-大学读的是电子商务。2022 年跟着视频敲前端，现在做数字孪生可视化，平时写得最多的是 HT.js。下班喜欢玩单机，偶尔也会为了一个游戏熬到周一凌晨两点。
+### 序　About me
 
-### 从一张场景图说起
+明月几时有，做数字孪生可视化的前端开发者。工作里常画场景，下班喜欢逛游戏里的地图。《影之刃零》的庞镇够我从周五下班逛到周一凌晨。
 
-以前改公司的场景，要在网页编辑器里写代码，图纸和模型也在线上。我先写了个 Python 代理，试试看能不能把代码拉回本地，图纸还照常加载。跑通以后，给它加过 Electron 窗口，嫌重，又换成 Tauri 和 React。后来在公司讲过一次，拿它演示怎么让 Agent 跟着读场景代码。
+## 作　Selected works
 
-HT.js 用了快三年，我也开了个 **miniht**，想自己试着搭一套。眼下先做好一件小事：点中画布上的节点，在旁边改个属性，存盘，下次打开还在。
+<a href="https://mingyue329.github.io/"><img width="49%" src="assets/almanac/journal.png" alt="明月几时有 · 个人网站实景，打开网站"></a>
+<a href="works/miniht.md"><img width="49%" src="assets/almanac/model-study.svg" alt="miniht · 节点与连线草图，阅读开发记录"></a>
 
-### 有几页可以翻翻
+**[明月几时有的笔记 ↗](https://mingyue329.github.io/)**　Vue · TypeScript · Vite<br>
+试过漫画和 P3R 两版博客，最后把首页留给五幅山水。画可以各有脾气，翻进文章，还是字要好读。
 
-- [HT 项目手记](https://github.com/mingyue329/ht-project-skill)　接手一个老场景，先认哪个模板、去哪里找脚本入口。我把常翻的 API 也放在里面了。
-- [大学时敲的前端](https://github.com/mingyue329/yyzx)　那时候还没有 AI，都是一行一行跟着敲的。隔了四年再打开，连当时写的几句话都还在。
-- [明月几时有的笔记](https://mingyue329.github.io/)　个人站来回改过好几版。做到「山月入墨」，终于有了一幅自己愿意多看一会儿的首页。
+**[miniht · 开发手稿 ↗](works/miniht.md)**　TypeScript · Konva · 开发中<br>
+用 HT.js 做了快三年场景，想自己写一个二维编辑器。先从最小的一步做起：点中节点，在旁边改个属性，让画布跟着变。
+
+### 迹　My journey
+
+**2022 左右**　大学读电子商务，跟着视频一行行敲前端。那份作业还留在 GitHub。<br>
+**工作以后**　在线上编辑器改场景不顺手，便写了个 Python 代理。试过 Electron，嫌重，又换成 Tauri 和 React。<br>
+**现在**　把本地开发的办法演示给同事，也把接手老项目时找入口的顺序记下来。
+
+### 器　Technology
+
+<img src="assets/almanac/web.svg" width="18" alt="">　**页面**　Vue、TypeScript、Vite，撑起个人站的页面与构建。<br>
+<img src="assets/almanac/scene.svg" width="18" alt="">　**场景**　工作用 HT.js 做数字孪生，也用 Cesium 处理地理场景。<br>
+<img src="assets/almanac/app.svg" width="18" alt="">　**桌面**　Tauri 配 React，做过本地代理和给电商朋友查排名的小工具。<br>
+<img src="assets/almanac/study.svg" width="18" alt="">　**在试**　用 Konva 琢磨节点编辑，再看同一套数据怎样接到 Three.js。
+
+### 记　Development notes
+
+[把首页从黑黄模板改成五幅国风画](https://mingyue329.github.io/blog/site-redesign/)　·　留白、裁图，还有云究竟该往哪儿走。<br>
+[HT 项目手记](https://github.com/mingyue329/ht-project-skill)　·　刚拿到一个老场景，我通常先翻哪几个文件。<br>
+[大学时的 yyzx](https://github.com/mingyue329/yyzx)　·　四年前手敲的代码，再打开，连当时的小心思都还在。
+
+---
+
+<p align="center"><sub>尾　·　Epilogue</sub><br>☾　绿树低昂朝暮风<br><a href="https://mingyuejiu.com">mingyuejiu.com</a>　·　<a href="https://mingyue329.github.io/blog/">翻一页笔记</a></p>

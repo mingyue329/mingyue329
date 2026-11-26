@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 338" role="img"><title>miniht · 节点与属性结构草图</title>
+<defs><pattern id="grid" width="19" height="19" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".85" fill="#86a39c" opacity=".44"/></pattern><g id="node" stroke-linejoin="round"><path d="M0-12 24 0 0 12-24 0Z" fill="#d9d7bf"/><path d="M-24 0 0 12v14l-24-12Z" fill="#8bafa4"/><path d="M0 12 24 0v14L0 26Z" fill="#64897e"/></g></defs>
+<path fill="#203531" d="M0 0h600v338H0z"/><path fill="url(#grid)" d="M18 18h564v302H18z"/>
+<g fill="none" stroke="#a0b8a9" stroke-width=".85"><path d="m100 167 182-91 203 96-185 98Z"/><path d="m100 155 182-91 203 96-185 98Z" stroke-dasharray="4 6"/><path d="M100 155v12m200 91v12m185-110v12"/></g>
+<g fill="none" stroke="#dac29b" stroke-width="1.8"><path d="m168 144 79 39 57-28 71 34m-71-34v-36l44-22"/></g>
+<use href="#node" x="168" y="134"/><use href="#node" x="247" y="173"/><use href="#node" x="304" y="145"/><use href="#node" x="375" y="179"/><use href="#node" x="348" y="87"/>
+<path d="M402 186h54l17-18h60" fill="none" stroke="#bca47c"/><text x="470" y="160" fill="#d5d8c7" font-size="14" font-family="monospace">node</text>
+<text x="32" y="42" fill="#d2b995" font-size="15" font-family="monospace" letter-spacing="2">02 / MODEL</text><text x="32" y="302" fill="#e6e6d5" font-size="32" font-family="Georgia,serif">miniht</text><text x="568" y="300" text-anchor="end" fill="#c0cabe" font-size="18" font-family="serif">结构草图</text></svg>
